@@ -25,7 +25,18 @@ Trò chơi có Menu lựa chọn game bao gồm 3 tựa game:
 
 <h2>KIẾN THỨC</h2>
 
-
+Tạo cửa số trò chơi pygame
+Sử dụng sprite
+Sử dụng surface
+Sử dụng keypress
+Sử dụng sprite.Group
+Sử dụng sprite.collide (kiểm tra va chạm)
+Sử dụng image (thay đổi kích thước, xoay ảnh...)
+Tạo sự kiện với USERVENT
+Thay đổi tốc độ game với fps
+Cho phông nền chuyển động
+Cho hình ảnh nhân vật chuyển động
+Sử dụng mixer chèn âm thanh cho game
 
 <h2>TÀI NGUYÊN</h2>
 
